@@ -17,7 +17,7 @@ Toujours en train de construire, casser et reconstruire quelque chose.
 ### 🧠 À propos
 
 - 🎓 Cycle Ingénieur **Data Science & Cloud Computing** à l'ENSA Oujda (2024 – présent), après deux années de classes préparatoires intégrées.
-- 🔭 Je construis actuellement des projets qui couvrent tout le spectre : **ML/DL appliqué**, **applications full-stack**, et une **infrastructure cloud maison** (Linux → Docker → AWS/LocalStack → Terraform → Kubernetes).
+- 🔭 Je construis actuellement des projets qui couvrent tout le spectre : **ML/DL appliqué**, **applications full-stack**, et une **infrastructure cloud maison** (Linux → Docker → AWS/LocalStack).
 - 🧮 En parallèle, je mène une **recherche indépendante en théorie analytique des nombres** (conjecture de Goldbach, cribles, autocorrélation des nombres premiers).
 - 🌱 En apprentissage continu : Kubernetes, Terraform, et l'ingénierie ML de bout en bout.
 - 💬 Je parle Français (B2) et Anglais (B1).
@@ -30,64 +30,32 @@ Toujours en train de construire, casser et reconstruire quelque chose.
 <tr>
 <td width="50%" valign="top">
 
-**🩺 [EndoAI](https://github.com/MELSIDI/EndoAI)**
-Application web de classification de la sévérité endoscopique des maladies inflammatoires chroniques intestinales (score de Mayo pour la RCH, classification à 7 niveaux pour Crohn). Modèles PyTorch (ResNet-50, ViT-S/16) avec Attention Rollout / Grad-CAM, backend FastAPI, export PDF.
-`Python` `PyTorch` `FastAPI` `Computer Vision`
-
-</td>
-<td width="50%" valign="top">
-
-**📚 [Illimmi (Hypercourse)](https://github.com/MELSIDI/Illimmi)**
-Application Flutter qui génère des cours interactifs pilotés par IA via un DSL propriétaire. Pipeline multi-couches (planification pédagogique → génération audio → génération de script → vérification de contenu) optimisé pour tourner en local sous contrainte mémoire.
-`Flutter` `Dart` `LLM Pipelines` `DSL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **🏗️ [SQL Data Warehouse Project](https://github.com/MELSIDI/sql-data-warehouse-project)**
-Data Warehouse construit selon l'architecture Medallion (Bronze/Silver/Gold) avec un schéma en étoile et des vues de reporting, à partir de sources de données multiples. Pensé pour les Data Analysts et les outils BI.
+Data Warehouse construit selon l'architecture Medallion (Bronze/Silver/Gold) avec un schéma en étoile et des vues de reporting, à partir de sources de données multiples. Pensé pour les Data Analysts.
 `SQL Server` `Data Engineering` `Medallion Architecture`
 
 </td>
 <td width="50%" valign="top">
 
-**💳 Fraud Detection — DataTour**
-Pipeline LightGBM pour la détection de fraude sur des transactions de mobile money fortement déséquilibrées (~3% de fraude, 1,29M transactions) : features réseau personnalisées, tables de correspondance train-only, validation croisée stratifiée.
-`LightGBM` `Imbalanced Data` `Feature Engineering`
+**🎮 [Tetris RL](https://github.com/MELSIDI/TETRIS_RL)**
+Environnement Tetris développé de zéro en Python/Pygame, conçu comme terrain d'entraînement pour un futur agent de Reinforcement Learning.
+`Reinforcement Learning` `Python` `Pygame`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🎮 Tetris RL**
-Projet de Reinforcement Learning appliqué à Tetris : conception de l'environnement et de l'agent, exploré comme projet de portfolio.
-`Reinforcement Learning` `Python`
+**📚 [Modèles de Machine Learning](https://github.com/MELSIDI/MODELES-DE-MACHINE-LEARNING)**
+Collection de modèles de Machine Learning implémentés et documentés, couvrant classification, régression et clustering.
+`Python` `scikit-learn` `Jupyter Notebook`
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 [py-coach](https://github.com/MELSIDI/py-coach)**
-CLI locale d'entraînement au code assistée par IA, basée sur LM Studio/Qwen, SQL Server, Rich et l'intégration Telegram.
-`Python` `LLM Local` `CLI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔢 Crible Centré Généralisé**
-Recherche originale en théorie analytique des nombres reliant un crible géométrique généralisé à la conjecture de Goldbach : identité exacte |S(A)| = π(2A−2) − r′(2A), variantes matricielles booléennes (OR/AND/XOR), lien avec la corrélation de Hardy–Littlewood. Mémoires LaTeX + visualisations interactives.
-`Number Theory` `LaTeX` `Research`
-
-</td>
-<td width="50%" valign="top">
-
-**📐 Rank Space — Autocorrélation des nombres premiers**
-Cadre de recherche remplaçant les valeurs premières par leurs indices ("rank space") : identités exactes, formule du double crible, analyse spectrale de graphes de Cayley, et détection empirique de raies spectrales liées aux zéros de Riemann.
-`Number Theory` `Spectral Analysis` `Research`
+**📖 [Training on Data Science](https://github.com/MELSIDI/Training-on-Data-Science)**
+Parcours de formation en Data Science avec notebooks pratiques et projets progressifs.
+`Python` `Jupyter Notebook` `Data Science`
 
 </td>
 </tr>
