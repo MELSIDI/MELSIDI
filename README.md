@@ -87,17 +87,6 @@ Parcours de formation en Data Science avec notebooks pratiques et projets progre
 
 ---
 
-### 📊 Stats
-
-<div align="center">
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=MELSIDI&show_icons=true&theme=default&hide_border=true)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=MELSIDI&layout=compact&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 <i>N'hésite pas à me contacter pour un stage, une collaboration, ou juste pour parler théorie des nombres 🔢</i>
 </div>
