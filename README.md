@@ -17,9 +17,8 @@ Toujours en train de construire, casser et reconstruire quelque chose.
 ### 🧠 À propos
 
 - 🎓 Cycle Ingénieur **Data Science & Cloud Computing** à l'ENSA Oujda (2024 – présent), après deux années de classes préparatoires intégrées.
-- 🔭 Je construis actuellement des projets qui couvrent tout le spectre : **ML/DL appliqué**, **applications full-stack**, et une **infrastructure cloud maison** (Linux → Docker → AWS/LocalStack).
-- 🧮 En parallèle, je mène une **recherche indépendante en théorie analytique des nombres** (conjecture de Goldbach, cribles, autocorrélation des nombres premiers).
-- 🌱 En apprentissage continu : Kubernetes, Terraform, et l'ingénierie ML de bout en bout.
+- 🔭 Je construis actuellement des projets qui couvrent tout le spectre : **Data Analytics**, **Machine/Deep Learning appliqué**, **applications full-stack**.
+- 🌱 En apprentissage continu : **Cloud**(Kubernetes, Terraform), et **l'ingénierie ML de bout en bout**.
 - 💬 Je parle Français (B2) et Anglais (B1).
 
 ---
@@ -88,5 +87,5 @@ Parcours de formation en Data Science avec notebooks pratiques et projets progre
 ---
 
 <div align="center">
-<i>N'hésite pas à me contacter pour un stage, une collaboration, ou juste pour parler théorie des nombres 🔢</i>
+<i>N'hésite pas à me contacter pour un stage, une collaboration, ou un boulot</i>
 </div>
