@@ -14,16 +14,16 @@ Toujours en train de construire, casser et reconstruire quelque chose.
 
 ---
 
-### 🧠 À propos
+###  À propos
 
-- 🎓 Cycle Ingénieur **Data Science & Cloud Computing** à l'ENSA Oujda (2024 – présent), après deux années de classes préparatoires intégrées.
-- 🔭 Je construis actuellement des projets qui couvrent tout le spectre : **Data Analytics**, **Machine/Deep Learning appliqué**, **applications full-stack**.
-- 🌱 En apprentissage continu : **Cloud**(Kubernetes, Terraform), et **l'ingénierie ML de bout en bout**.
-- 💬 Je parle Français (B2) et Anglais (B1).
+-  Cycle Ingénieur **Data Science & Cloud Computing** à l'ENSA Oujda (2024 – présent), après deux années de classes préparatoires intégrées.
+-  Je construis actuellement des projets qui couvrent tout le spectre : **Data Analytics**, **Machine/Deep Learning appliqué**, **applications full-stack**.
+-  En apprentissage continu : **Cloud**(Kubernetes, Terraform), et **l'ingénierie ML de bout en bout**.
+-  Je parle Français (B2) et Anglais (B1).
 
 ---
 
-### 🚀 Projets phares
+###  Projets phares
 
 <table>
 <tr>
