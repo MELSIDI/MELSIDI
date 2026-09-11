@@ -62,7 +62,7 @@ Parcours de formation en Data Science avec notebooks pratiques et projets progre
 
 ---
 
-### 🛠️ Stack technique
+###  Stack technique
 
 **Data Science & IA**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
