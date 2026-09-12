@@ -4,7 +4,7 @@
 
 ### Étudiant Ingénieur — Data Science & Cloud Computing @ ENSA Oujda
 
-Passionné par le Machine Learning, le Deep Learning et l'infrastructure Cloud/DevOps.
+Passionné par la Data Analyse, la Data Science, le Machine Learning, le Deep Learning et l'infrastructure Cloud/DevOps.
 Toujours en train de construire, casser et reconstruire quelque chose.
 
 [![Email](https://img.shields.io/badge/Email-mohamedelmahadisidi%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamedelmahadisidi@gmail.com)
