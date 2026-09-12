@@ -38,7 +38,7 @@ Data Warehouse construit selon l'architecture Medallion (Bronze/Silver/Gold) ave
 
 **🎮 [Tetris RL](https://github.com/MELSIDI/TETRIS_RL)**
 Environnement Tetris développé de zéro en Python/Pygame, conçu comme terrain d'entraînement pour un futur agent de Reinforcement Learning.
-`Reinforcement Learning` `Python` `Pygame`
+`Reinforcement Learning` `Python` `Pygame` `Pytorch`
 
 </td>
 </tr>
@@ -46,15 +46,15 @@ Environnement Tetris développé de zéro en Python/Pygame, conçu comme terrain
 <td width="50%" valign="top">
 
 **📚 [Modèles de Machine Learning](https://github.com/MELSIDI/MODELES-DE-MACHINE-LEARNING)**
-Collection de modèles de Machine Learning implémentés et documentés, couvrant classification, régression et clustering.
-`Python` `scikit-learn` `Jupyter Notebook`
+Collection de modèles de Machine Learning implémentés et documentés.
+`Python` `scikit-learn`
 
 </td>
 <td width="50%" valign="top">
 
 **📖 [Training on Data Science](https://github.com/MELSIDI/Training-on-Data-Science)**
-Parcours de formation en Data Science avec notebooks pratiques et projets progressifs.
-`Python` `Jupyter Notebook` `Data Science`
+Des Projets en Data Science issues de la plateforme Kagle.
+`Python` `Data Science`
 
 </td>
 </tr>
