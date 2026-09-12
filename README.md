@@ -4,8 +4,7 @@
 
 ### Étudiant Ingénieur — Data Science & Cloud Computing @ ENSA Oujda
 
-Passionné par la Data Analyse, la Data Science, le Machine Learning, le Deep Learning et l'infrastructure Cloud/DevOps.
-Toujours en train de construire, casser et reconstruire quelque chose.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Passionn%C3%A9+par+la+Data+Analyse%2C+la+Data+Science%2C+le+Machine+Learning%2C+le+Deep+Learning+et+l%27infrastructure+Cloud%2FDevOps.;Toujours+en+train+de+construire%2C+casser+et+reconstruire+quelque+chose.)](https://github.com/MELSIDI)
 
 [![Email](https://img.shields.io/badge/Email-mohamedelmahadisidi%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamedelmahadisidi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MELSIDI-181717?style=flat&logo=github)](https://github.com/MELSIDI)
