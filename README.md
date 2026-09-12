@@ -52,9 +52,9 @@ Collection de modèles de Machine Learning implémentés et documentés.
 </td>
 <td width="50%" valign="top">
 
-**📖 [Training on Data Science](https://github.com/MELSIDI/Training-on-Data-Science)**
-Des Projets en Data Science issues de la plateforme Kagle.
-`Python` `Data Science`
+**🩺 [EndoAI](https://github.com/Anne7076/EndoAI)**
+Application web de classification de la sévérité endoscopique des maladies inflammatoires chroniques intestinales (score de Mayo pour la RCH, classification à 7 niveaux pour Crohn). Modèles PyTorch (ResNet-50, ViT-S/16) avec Attention Rollout / Grad-CAM, backend FastAPI, export PDF.
+`Python` `PyTorch` `FastAPI` `Computer Vision`
 
 </td>
 </tr>
