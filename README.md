@@ -37,8 +37,8 @@ Data Warehouse construit selon l'architecture Medallion (Bronze/Silver/Gold) ave
 <td width="50%" valign="top">
 
 **🎮 [Tetris RL](https://github.com/MELSIDI/TETRIS_RL)**
-Environnement Tetris développé de zéro en Python/Pygame, conçu comme terrain d'entraînement pour un futur agent de Reinforcement Learning.
-`Reinforcement Learning` `Python` `Pygame` `Pytorch`
+Environnement Tetris développé de zéro en Python/Pygame, conçu comme terrain d'entraînement pour un agent de Reinforcement Learning.
+`Reinforcement Learning` `Python` `Pygame` `Pytorch`, `TD(0)`
 
 </td>
 </tr>
